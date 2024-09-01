@@ -12,11 +12,8 @@
 .output/
 #Extension App-file
 *.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-file
+#Rapid Application Development File#License-file
 *.flf
 #Test results file
-TestResults.xml
+/usr/bin/bash: line 1: wq: command not found
+text_ignore.txt
