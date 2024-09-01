@@ -1,0 +1,47 @@
+    1  git config --global user.name "Oleksandra Vovchok"
+    2  git config --global user.email sashawvovchok@gmail.com
+    3  git clone https://github.com/oleksandravov/HW_10.git
+    4  ls
+    5  cd HW_10/
+    6  touch text_ignore.txt
+    7  vim .gitignore
+    8  nano .gitignore
+    9  git status
+   10  git add .gidignore
+   11  git add .
+   12  git add .
+   13  git commit
+   14  git commit 
+   15  git commit -m "test text"
+   16  touch main_test.txt
+   17  git add
+   18  git add main_test.txt
+   19  gid status
+   20  git status
+   21  dit commit -m"test1"
+   22  git commit -m "test1"
+   23  git branch
+   24  git chekout branch_develop
+   25  git checkout branch_develop
+   26  git checkout -b branch_develop
+   27  git status
+   28  git branch
+   29  touch develop_test.txt
+   30  git add develop_test.txt 
+   31  git status
+   32  git commit -m "new branch"
+   33  nano develop_test.txt 
+   34   git status
+   35  git add
+   36  git add develop_test.txt 
+   37  git status
+   38  git commit -m "new branch"
+   39  git checkout branch_main
+   40  git branch
+   41  git checkout main
+   42  git branch
+   43  git merge branch_develop
+   44  git status
+   45  git branch
+   46  git log
+   47  history>command_list.csv
